@@ -1,5 +1,29 @@
 # BGP_TE_IPv4
+
+Comparto un nuevo escenario de laboratorio centrado en la ingeniería de tráfico BGP en IPv4, integrando múltiples protocolos IGP y un entorno multi-AS y multivendedor.
+En este caso, el objetivo era controlar la selección de rutas BGP mediante el atributo de Preferencia Local, aplicando políticas directamente a equipos Cisco y H3C, simulando un entorno empresarial real.
+
 ## Topología del laboratorio
+
+🏗 Tecnologías Implementadas
+
+🌐 IPv4
+
+🔁 EIGRP
+
+🔁 OSPFv2
+
+🔁 IS-IS
+
+🔁 DHCPv4
+
+📡 BGP (eBGP + iBGP Full Mesh)
+
+🧠 Ingeniería de Tráfico BGP - Preferencia Local
+
+🔐 NAT
+
+🧩 Entorno multivendedor (Cisco, H3C, VyOS, MikroTik)
 
 ![Topología BGP-TE-IPv4](BGP_TE_IPv4/img_1.png)
 
